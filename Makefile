@@ -1,2 +1,2 @@
 all:
-	pdflatex --interaction nonstopmode res1.tex; open res1.pdf
+	pdflatex --interaction nonstopmode JoeSmith.tex; open JoeSmith.pdf
